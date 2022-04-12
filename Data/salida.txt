@@ -1,0 +1,20 @@
+Error: S --> << La acción requerida es incorreta >>
+NICIANDO PARTIDA
+Error: M 1 2 --> << Turno completado >>
+	Jugador 1[color=Azul, puntuacion=0, madera=1, carbon=2, trigo=0, monedas=0]
+	Jugador 2[color=Rojo, puntuacion=0, madera=0, carbon=0, trigo=2, monedas=0]
+	Jugador 3[color=Verde, puntuacion=0, madera=0, carbon=2, trigo=0, monedas=0]
+	Jugador 4[color=Lila, puntuacion=0, madera=1, carbon=0, trigo=1, monedas=0]
+	Jugador 5[color=Amarillo, puntuacion=0, madera=0, carbon=1, trigo=1, monedas=0]
+	Jugador 6[color=Negro, puntuacion=0, madera=1, carbon=1, trigo=0, monedas=0]
+Error: M 1 6 --> << El jugador no puede volver a jugar >>
+Error: M 2 1 --> << Turno completado >>
+Localizacion [numLocalizacion=1, recursoObtenido=[RecursoObtenido [tipo=M, cantidad=3]], recursoNecesario=[RecursoNecesario [tipo=T, cantidad=1]], j=Rojo]
+Localizacion [numLocalizacion=2, recursoObtenido=[RecursoObtenido [tipo=C, cantidad=2]], recursoNecesario=[RecursoNecesario [tipo=M, cantidad=1]], j=ninguno]
+Localizacion [numLocalizacion=3, recursoObtenido=[RecursoObtenido [tipo=T, cantidad=2]], recursoNecesario=[RecursoNecesario [tipo=M, cantidad=1]], j=ninguno]
+Localizacion [numLocalizacion=4, recursoObtenido=[RecursoObtenido [tipo=X, cantidad=2]], recursoNecesario=[RecursoNecesario [tipo=X, cantidad=1]], j=ninguno]
+Localizacion [numLocalizacion=5, recursoObtenido=[RecursoObtenido [tipo=C, cantidad=5]], recursoNecesario=[RecursoNecesario [tipo=T, cantidad=2]], j=ninguno]
+Localizacion [numLocalizacion=6, recursoObtenido=[RecursoObtenido [tipo=P, cantidad=10]], recursoNecesario=[RecursoNecesario [tipo=C, cantidad=2]], j=ninguno]
+Localizacion [numLocalizacion=7, recursoObtenido=[RecursoObtenido [tipo=P, cantidad=10]], recursoNecesario=[RecursoNecesario [tipo=X, cantidad=5]], j=ninguno]
+Localizacion [numLocalizacion=8, recursoObtenido=[RecursoObtenido [tipo=P, cantidad=10]], recursoNecesario=[RecursoNecesario [tipo=T, cantidad=5]], j=ninguno]
+Localizacion [numLocalizacion=9, recursoObtenido=[RecursoObtenido [tipo=X, cantidad=5]], recursoNecesario=[RecursoNecesario [tipo=C, cantidad=2]], j=ninguno]
